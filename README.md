@@ -10,6 +10,8 @@
 
 ### Create repo (says 'docs') and push the code
 
+### Make entries in docker-compose file of sphinx with proper github username and repo name
+
 ### Update workflow (permission to write)
 
 ### Once github actions runs succesfully then enable gh-pages to publish docs
